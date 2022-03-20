@@ -8,6 +8,8 @@ Gradle run
 
 Gradle test
 
+Gradle jacocoTestReport
+
 (need gradle 6.3)
 
 
