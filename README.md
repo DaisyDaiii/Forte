@@ -3,6 +3,11 @@ Forte is a simple DAW (music notation software) where the user enters notes onto
 
 # Running
 Gradle build
+
 Gradle run
+
 Gradle test
+
 (need gradle 6.3)
+
+
